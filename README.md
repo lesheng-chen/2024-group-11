@@ -115,6 +115,8 @@ In the early stages, we had various ideas for the game such as Flappy Bird, Bric
 
 After the paper prototypes ended, we unanimously decided to use the idea of Colorful Flappy Bird and formulate the rules: In this version of Flappy Bird, the pipes and the bird are dynamically changing colours. The twist is that the player must control the bird to match its colour with the upcoming pipes to pass through them. The second twist is that the pipes move dynamically to trap the bird. The third twist is that there are two players and the two players each control a racing bird (whose speed can be adjusted by the arrow keys).
 
+Also,we tried to apply the two evaluation methods mentioned of week7 in our decision-making process.Through the Think-Aloud sessions, real users' feedback about missing dynamic backgrounds and gradual speed adjustments led to our successive design fixes.Moreoveer,we try to use the 10 principles of Nelson in evaluation process before every design decision. The 'User control and freedom' principle is reflected by inserting the exit and pause shortcuts, improving the users' usability with increasing control. Moreover, we referred to the 'minimum information' to simplify the game layout, making the starting inferface clear and straightforward by just some option icons and texts.
+
 Finally, we wanted the game to be educationally friendly and help young children get used to using a computer and keyboard so we sought to design an easy-to-play game, recognisable and fun to play for anyone. Thus we limited the keys to the spacebar and up button to ensure the game is simple and easy to understand. These requirements helped drive our eventual design and motivated us to choose Flappy Bird as the game to develop a twist on.
 
 
@@ -365,6 +367,6 @@ Ahmed El Ashry: 1
 
 Jialun He: 1.5
 
-Ching-Chun Juan(Alice): 1
+Ching-Chun Juan: 1
 
 Chen Lesheng: 0.5
